@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-name="beIN Sport 1" tvg-id="beIN Sport 1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/logos/bein-sports-1.png" group-title="[🇹🇷]beIN Sport 1 ( Yedek )",beIN Sport 1
-http://tvhouse.live/play/live.php?mac=00:1a:79:ab:da:9f&stream=10698&extension=ts
 #EXTINF:-1 tvg-name="TEST" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="[🇹🇷]beIN Sport 1 ( Yedek )",TEST
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="12345" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="[🇹🇷]beIN Sport 1 ( Yedek )",12345
