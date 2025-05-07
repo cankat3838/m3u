@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-name="A2" tvg-id="a2.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="[🇹🇷]Ulusal",A2
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-name="A2 [YEDEK]" tvg-id="a2.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="[🇹🇷]Ulusal Yedek",A2 [YEDEK]
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="Beyaz TV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV [YEDEK]" tvg-id="Beyaz TV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal Yedek",BEYAZ TV [YEDEK]
