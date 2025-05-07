@@ -1,14 +1,4 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="[🇹🇷]Ulusal",TV8
-https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1 tvg-name="TV8 [YEDEK]" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="[🇹🇷]Ulusal Yedek",TV8 [YEDEK]
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="TV8.5" tvg-id="TV 8,5.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="[🇹🇷]Ulusal",TV8.5
-https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV8.5 [YEDEK]" tvg-id="TV 8,5.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="[🇹🇷]Ulusal Yedek",TV8.5 [YEDEK]
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:-1 tvg-name="TV8 INT" tvg-id="TV8 int.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="[🇹🇷]Ulusal",TV8 INT
-http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT 2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="[🇹🇷]Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TEVE 2" tvg-id="teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="[🇹🇷]Ulusal",TEVE 2
