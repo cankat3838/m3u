@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-name="KANAL 7 [YEDEK]" tvg-id="Kanal 7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="[🇹🇷]Ulusal Yedek",KANAL 7 [YEDEK]
-https://canlitvulusal.xyz/live/kanal7/index.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="[🇹🇷]Ulusal",TV8
 https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-name="TV8 [YEDEK]" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="[🇹🇷]Ulusal Yedek",TV8 [YEDEK]
